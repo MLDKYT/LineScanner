@@ -1,0 +1,11 @@
+G:\Programming\C#\LineScanner\LineScanner\bin\Debug\LineScanner.exe.config
+G:\Programming\C#\LineScanner\LineScanner\bin\Debug\LineScanner.exe
+G:\Programming\C#\LineScanner\LineScanner\bin\Debug\LineScanner.pdb
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.csproj.AssemblyReference.cache
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.csproj.SuggestedBindingRedirects.cache
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.Properties.Resources.resources
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.csproj.GenerateResource.cache
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.csproj.CoreCompileInputs.cache
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.exe
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.pdb
+G:\Programming\C#\LineScanner\LineScanner\obj\Debug\LineScanner.Form1.resources
